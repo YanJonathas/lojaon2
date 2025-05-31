@@ -108,7 +108,7 @@ header {
 
 /* BANNER */
 .banner-full {
-    background-image: url('../images/Banner-Starter-Women.jpg');
+    background-image: url('../images/bannerprincipal.jpg');
     height: 700px;
     margin-top: 100px;
     background-color: #c3c7d0;
@@ -175,7 +175,7 @@ header {
 }
 
 .baseshot-img {
-    background-image: url(../images/tenis-Baseshot.jpg);
+    background-image: url(../images/banner2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
